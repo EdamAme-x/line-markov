@@ -1,0 +1,15 @@
+{
+  "name": "takuyai",
+  "version": "1.0.0",
+  "description": "```bash\r npm i @hideokamoto/markov-chain-kuromoji\r deno run -A takuyai.js\r ```",
+  "main": "takuyai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hideokamoto/markov-chain-kuromoji": "^0.2.3"
+  }
+}
